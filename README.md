@@ -6,3 +6,6 @@
 
 ## 2. Graph Search, Shortest Paths, and Data Structures
   Labs can be found out at (Course 2)[https://github.com/Shailin/Coursera-Algorithms/tree/master/Course%202(Graph%20Search%2CShortest%20Paths)]
+
+## 3. Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+   Labs can be found at (Course 3)[https://github.com/Shailin/Coursera-Algorithms/tree/master/Course%203(Greedy%20Algorithms%2CMinimum%20Spanning%20Trees)]
